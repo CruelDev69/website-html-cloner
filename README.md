@@ -11,7 +11,7 @@ Type `pip install httpx`
 Type `py main.py` in console.
 ***
 
-<p align="center"><img width="800px" src="https://media.discordapp.net/attachments/1011340929786986564/1017374766665056296/unknown.png"/></p>
+<p align="center"><img width="800px" src="https://cdn.discordapp.com/attachments/1018221851329183824/1018603373160824922/unknown.png"/></p>
 
 ***
 # Note:
